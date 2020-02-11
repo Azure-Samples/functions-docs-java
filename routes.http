@@ -1,0 +1,14 @@
+
+
+# HttpTriggerQueueOutput
+GET http://localhost:7071/api/HttpTriggerQueueOutput?name=Azure HTTP/1.1
+
+
+# HttpTriggerSendGrid
+GET http://localhost:7071/api/HttpTriggerSendGrid HTTP/1.1
+
+# ServiceBusOutput
+GET http://localhost:7071/api/ServiceBusOutput?message=This+is+a+test HTTP/1.1
+
+# Twilio Output
+GET http://localhost:7071/api/TwilioOutput?message=This+is+a+test&to=5629724784 HTTP/1.1

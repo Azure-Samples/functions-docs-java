@@ -1,0 +1,14 @@
+{
+  "azureFunctions.deploySubpath": "target/azure-functions/azure-functions-binding-java-1571162765581/",
+  "azureFunctions.projectLanguage": "Java",
+  "azureFunctions.projectRuntime": "~2",
+  "debug.internalConsoleOptions": "neverOpen",
+  "azureFunctions.preDeployTask": "package",
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "azureFunctions.templateFilter": "All"
+}

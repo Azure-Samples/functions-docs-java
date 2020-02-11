@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "STORAGE_CONNECTION_STRING",
+    "MyStorageConnectionAppSetting": "STORAGE_CONNECTION_STRING",
+    "SendGrid_API_Key": "SENDGRID_API_KEY",
+    "FUNCTIONS_WORKER_RUNTIME": "java"
+  }
+}
